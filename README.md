@@ -1,5 +1,14 @@
 # README
 
+## Project
+A Rails application, ‘Who’s on board?’, to make my friends more organised at planning things this summer (🤞🏼). 
+
+## Planning and Process
+The details of steps taken and planning can be found [here][https://trello.com/b/BRB6hQnl/whos-on-board-lol].
+
+## User stories
+ - TBA
+
 
 
 
