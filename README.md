@@ -1,13 +1,18 @@
 # README
 
-## Project
+[Project](#Projects) | [Planning and Process](#planning-and-process) | [User Stories](#user-stories) | [Run Tests](#run-tests)
+
+### Project
 A Rails application, ‘Who’s on board?’, to make my friends more organised at planning things this summer (🤞🏼).
 
-## Planning and Process
+### Planning and Process
 The details of my process and planning can be found [here](https://trello.com/b/BRB6hQnl/whos-on-board-lol).
 
-## User stories
+### User stories
  - TBA
+
+### Run tests
+`rspec`
 
 
 
